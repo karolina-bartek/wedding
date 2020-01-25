@@ -15,7 +15,9 @@ Install [hugo_extended](https://github.com/gohugoio/hugo/releases)
 
 ## Release
 
-`rm -rf public && hugo --minify -D`
+`hugo --minify -D`
+
+This will generate code to `public/` directory which is the root of `karolina-bartek.github.io` repository.
 
 ## Development
 

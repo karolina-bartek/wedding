@@ -6,7 +6,7 @@
 
 [Hosting on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-user-or-organization-pages)
 
-`git submodule add -b master git@github.com:<USERNAME>/<USERNAME>.github.io.git public`
+`git submodule add -b master git@github.com:karolina-bartek/karolina-bartek.github.io.git public`
 
 ### Common Problems
 
